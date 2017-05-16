@@ -69,7 +69,7 @@ public class Main extends Thread{
 		//10진수 100을 8진수로 바꿈    ->  144
 
 		System.out.println(change(2, 10, "10101101"));
-		//10진수 10101101을 10진수로 바꿈    ->  173
+		//2진수 10101101을 10진수로 바꿈    ->  173
 
 		System.out.println(change(2, 10, "0100"));
 		//2진수 0100을 10진수로 바꿈    ->  4
